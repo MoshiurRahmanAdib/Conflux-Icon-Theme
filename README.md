@@ -65,6 +65,7 @@ See [this]() for more info.
 
 [Issues](https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme/issues)
 
+- Add GitHub Wiki, Contributing, Design Guidelines, and other resources.
 - [ ] Add a TUI script for options
     - [ ] Option to add app icon shadow
     - [ ] Folder colors / accent colors
