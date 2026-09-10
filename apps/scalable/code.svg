@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a">
+            <stop offset="0"/>
+            <stop offset="1" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="c" x1="86" x2="63" y1="19.458" y2="39" gradientTransform="translate(-57.378 -5.17)scale(1.146)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#007abb"/>
+            <stop offset="1" stop-color="#006caf"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="f" x1="86" x2="83" y1="20" y2="20" gradientTransform="translate(-57.378 -5.17)scale(1.146)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="d" x1="87" x2="63" y1="46" y2="24" gradientTransform="translate(-57.378 -5.17)scale(1.146)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#0080ce"/>
+            <stop offset="1" stop-color="#008fd5"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="e" x1="86" x2="83" y1="44" y2="44" gradientTransform="translate(-57.378 -5.17)scale(1.146)" gradientUnits="userSpaceOnUse"/>
+        <clipPath id="b" clipPathUnits="userSpaceOnUse">
+            <path d="M40.478 13.212a2 2 0 0 0-.189.013 2.6 2.6 0 0 0-1.138.42q-.25.134-.489.353l-14.196 13.12-5.884-4.502c-.395-.31-1.426-1.053-2.326-.198l-2.29 2.177c-.6.571-.26 1.34.218 1.78l5.542 5.124-5.541 5.12-.001.001c-.477.442-.816 1.21-.217 1.781l2.29 2.178c.338.32.693.416 1.027.394q.084-.005.165-.02c.489-.087.912-.399 1.134-.573l5.885-4.5L38.662 49c.148.136.302.24.457.327l.105.062c.408.232.969.453 1.465.393a1.6 1.6 0 0 0 .52-.154l7.524-3.689c.82-.402 1.648-.734 1.648-1.647V18.717c0-.913-.828-1.246-1.648-1.648l-7.523-3.69a1.6 1.6 0 0 0-.732-.167m.732 9.863h.001v16.848L30.196 31.5z" style="stroke-width:1;paint-order:stroke fill markers"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#b)" transform="translate(-18.801 -16.022)scale(1.52441)">
+        <path fill="#1ab3f6" fill-rule="evenodd" d="M40.29 13.226a2.6 2.6 0 0 0-1.155.43c.597.742-.608 7.734.9 8.68l1.177.739v16.859l-1.848 1.385c-1.425 1.067.129 7.217-.245 8.008.413.252 1.03.521 1.57.455a1.6 1.6 0 0 0 .52-.154l7.524-3.689c.82-.402 1.648-.734 1.648-1.647V18.717c0-.913-.828-1.246-1.648-1.648L41.21 13.38a1.6 1.6 0 0 0-.92-.154" style="paint-order:stroke fill markers"/>
+        <path fill="url(#c)" fill-rule="evenodd" d="m14.184 36.621 24.478-22.623c1.111-1.027 2.55-.663 2.55 1.462v7.614L18.583 40.38c-.395.31-1.426 1.053-2.326.198l-2.29-2.177c-.6-.571-.259-1.341.218-1.782z" style="fill:url(#c);paint-order:stroke fill markers"/>
+        <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAJASURB VFiFxdjrkoIwDAXgI7i6u+//tCqwP8yR05gUkMt2JoMWwc/0QiswXU4Wh5ZzUn9yR1+GHSxF8TAF aRDDgNQdAiOqBdBYKKyXGKR+Vxiz01o9g7jO4iGve7l+U2CboL4AfEtcra5FPBiGoG4zWGPvifoB 8GtxBXBBmcFdS9aUX4YhqsWz6e52jsBGrtOmXd2sZ5RNEzXpxY4w2NnOMxoANztH3GrgOblYpwYd pRwQLXJg51Af4XznZ19ThGI8hINB77FJUZgHeijDw/RcBGPGFqHbpN4/kjwyw22WNYXpDM+jPoJ4 noAMmOEW9bUsYx6mA0Gzpyjf76bmu2pmp2A88tmo2dPMaRN7XAapPi1qMF4chX6ZR/nwq5RZZQ6M R82aZs5nT4HRKgWYgZyCnVBmKFqPZTg/59X63dvAmILVcJrN2twXjdrsvotg/iZRf5saFFG/8z+0 wM2FafHA3p2fO2KJ6/Hehz+CKS4bEEhwGpB7cEW8Gqa4qGmj/qavPYrL9deSaQ0sQ9WA+p6IuwRx Q7avnIuC3ehRwSqUC1Muq/x08hoUa2ARLkMxuEyPMlqsaNbCPC6b77SZLxibMl1xbAFTHFBmzn+G /apFuXF+m2i3gnlc5+p1B99h3Nzc8Pwhfne/KUxxtSbtMDbnA+NoLDK3NYwQ9qHo3MNgjYF06/fC 7QGLcPr4IqaxujvKJsWeMI/TJu4wzl3EcuZ/NflR/xRGj6fs7y0cCSNOkdkfgoN++Kgy9X2Ltnj/ Uv4AFz71m4e+TdYAAAAASUVORK5CYII=" width="38" height="38" x="7.079" y="20.263" opacity=".35" preserveAspectRatio="none" style="display:inline"/>
+        <g fill-rule="evenodd" stroke-width="1.146">
+            <path fill="url(#d)" d="m14.184 26.376 24.478 22.623c1.111 1.027 2.55.663 2.55-1.462v-7.614l-22.63-17.307c-.395-.31-1.426-1.053-2.326-.198l-2.29 2.177c-.6.571-.259 1.341.218 1.782z" style="fill:url(#d);paint-order:stroke fill markers"/>
+            <path fill="url(#e)" d="m14.184 26.376 24.478 22.623c1.111 1.027 2.55.663 2.55-1.462v-7.614l-22.63-17.307c-.395-.31-1.426-1.053-2.326-.198l-2.29 2.177c-.6.571-.259 1.341.218 1.782z" opacity=".15" style="fill:url(#e);paint-order:stroke fill markers"/>
+            <path fill="url(#f)" d="m14.184 36.621 24.478-22.623c1.111-1.027 2.55-.663 2.55 1.462v7.614L18.583 40.38c-.395.31-1.426 1.053-2.326.198l-2.29-2.177c-.6-.571-.259-1.341.218-1.782z" opacity=".15" style="fill:url(#f);paint-order:stroke fill markers"/>
+        </g>
+    </g>
+</svg>

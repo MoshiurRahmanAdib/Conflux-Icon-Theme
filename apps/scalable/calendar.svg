@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#f7f7f7;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#d9d9d9;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="b" x1="32" x2="32" y1="4" y2="54" gradientUnits="userSpaceOnUse"/>
+    </defs>
+    <rect width="56" height="53.153" x="4" y="6.847" opacity=".25" rx="12" style="opacity:1;fill:#bfbfbf;fill-opacity:1;stroke-width:.974245"/>
+    <rect width="56" height="52.203" x="4" y="6.847" opacity=".25" rx="12" ry="11.39" style="opacity:1;fill:#999;fill-opacity:1;stroke-width:.965507"/>
+    <rect width="56" height="51.254" x="4" y="6.847" opacity=".25" rx="12" ry="11.39" style="opacity:1;fill:#bfbfbf;fill-opacity:1;stroke-width:.95669"/>
+    <rect width="56" height="50.305" x="4" y="6.847" opacity=".25" rx="12" ry="11.39" style="opacity:1;fill:#999;fill-opacity:1;stroke-width:.947789"/>
+    <rect width="56" height="49.356" x="4" y="6.847" opacity=".25" rx="12" ry="11.39" style="opacity:1;fill:#bfbfbf;fill-opacity:1;stroke-width:.938806"/>
+    <rect width="56" height="48.407" x="4" y="6.847" opacity=".25" rx="12" ry="11.39" style="opacity:1;fill:#999;fill-opacity:1;stroke-width:.929734"/>
+    <rect width="56" height="50" x="4" y="4" opacity=".25" rx="12" ry="12" style="display:inline;opacity:1;fill:url(#b);fill-opacity:1;stroke-width:.944911"/>
+    <path d="M23.26 44.203q-2.334 0-4.01-1.155-1.675-1.166-2.582-3.301-.893-2.147-.893-5.077 0-2.941.893-5.089.907-2.147 2.582-3.301 1.676-1.167 4.01-1.167 2.32 0 3.996 1.167 1.676 1.154 2.582 3.301t.906 5.09q0 2.94-.906 5.076t-2.582 3.301q-1.676 1.155-3.997 1.155m0-3.054q1.799 0 2.842-1.725 1.042-1.738 1.042-4.754 0-3.028-1.042-4.766t-2.843-1.738q-1.812 0-2.854 1.738-1.03 1.738-1.03 4.766 0 3.016 1.03 4.754 1.042 1.725 2.854 1.725m9.259 2.756V41.1l6.777-5.797q1.228-1.08 2.035-1.998.807-.931.807-2.234 0-1.328-.807-2.11-.807-.795-2.172-.795-1.49 0-2.346.956t-.856 2.644h-3.513q0-2.01.82-3.5.831-1.502 2.333-2.321 1.502-.832 3.562-.832 1.9 0 3.376.72 1.477.707 2.309 1.998.844 1.291.844 3.041 0 1.291-.484 2.358T43.8 35.303q-.906.993-2.197 2.098l-3.922 3.413v.025h8.093v3.066z" aria-label="2" style="font-weight:700;font-size:25.4199px;font-family:&quot;Inter Display&quot;;-inkscape-font-specification:&quot;Inter Display Bold&quot;;fill:#ec2d2d;stroke-width:2.59383;stroke-opacity:.499566" transform="translate(1.225 -1.658)"/>
+    <path d="M25.473 21.11q-.754 0-1.34-.38-.586-.378-.92-1.04-.332-.667-.332-1.521 0-.862.333-1.524.333-.666.919-1.046.586-.379 1.34-.379.758 0 1.34.38.586.379.92 1.045.333.662.333 1.524 0 .854-.334 1.52-.333.663-.919 1.042-.582.379-1.34.379m0-.643q.517 0 .95-.265.432-.268.693-.78.26-.514.26-1.253 0-.743-.26-1.256-.26-.517-.693-.781-.433-.268-.95-.268t-.95.268q-.432.264-.693.78-.26.514-.26 1.257 0 .739.26 1.252t.693.781q.433.265.95.265m5.92.643q-.789 0-1.382-.375-.594-.38-.927-1.042-.33-.666-.33-1.524 0-.865.33-1.528.33-.666.923-1.042.597-.379 1.386-.379.598 0 1.092.238.494.233.823.67.333.433.436 1.03h-.704q-.138-.624-.582-.957-.44-.337-1.065-.337-.601 0-1.038.295-.436.29-.673.811-.238.517-.238 1.199 0 .678.238 1.195.237.517.673.811.437.292 1.038.292.617 0 1.061-.334.444-.333.59-.953h.7q-.103.593-.432 1.026-.33.433-.827.67-.494.234-1.092.234m2.872-5.185v-.613h4.404v.613h-1.853v5.093h-.69v-5.093z" aria-label="OCT" style="font-size:7.84245px;font-family:&quot;Inter Display&quot;;-inkscape-font-specification:&quot;Inter Display&quot;;stroke-width:1.96062;stroke-opacity:.499566" transform="translate(1.225 -1.658)"/>
+</svg>
