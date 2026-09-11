@@ -35,6 +35,12 @@ git pull
 >
 > If you want to install system-wide (for all users), you need to install to `/usr/share/icons/` instead of `~/.local/share/icons/`
 
+## Usage
+Set 'Conflux' as your icon theme. On GNOME, you can do that with GNOME Tweaks.
+
+### Fallback icon pack
+If you want to use this together with another icon theme, edit `index.theme` and add the name (folder name) of the theme to `Inherits`. For example, `Inherits=Adwaita,breeze,hicolor`.
+
 ## About
 
 I had a problem: I couldn't find a good, modern-looking icon theme for my desktop. All the ones I came across have an outdated style (or just poor design), and/or are too stylistic, making unthemed icons look out of place, and potentially changing the app's identity. So I tried to solve that with Conflux.
@@ -57,7 +63,7 @@ See [the wiki](https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme/wiki) for
 
 If you want to request an icon, you can open an [issue](https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme/issues) (just follow the template). If instead you think you can make a good icon yourself, I encourage you to [contribute](#contributing)!
 
-If you find some icon is present in the theme but is not applied because the app uses a different icon name on your system, create an [issue](https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme/issues) along with the icon name used on your system ([see this]()), or a pull request with the new symlinks.
+If you find that some icon is present in the theme but is not applied because the app uses a different icon name on your system, create an [issue](https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme/issues) along with the icon name used on your system ([see this]()), or a pull request with the new symlinks.
 
 See [this]() for more info.
 
@@ -85,7 +91,7 @@ Check [Workspace/README.md](Workspace/README.md) for more information.
 
 ## Wiki
 
-There should be a lot of information in the [Wiki](https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme/wiki), go there if you're interested.
+There should be a lot of information in the [Wiki](https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme/wiki); go there if you're interested.
 
 ## License
 
