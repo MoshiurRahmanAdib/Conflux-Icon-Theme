@@ -1,0 +1,54 @@
+name: Icon Request
+description: Request a new icon to be added
+labels: ["icon-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the form if you want to request a new icon.
+
+  - type: input
+    id: app_name
+    attributes:
+      label: App Name
+      description: The name of the application
+      placeholder: e.g., Firefox
+    validations:
+      required: true
+
+  - type: input
+    id: icon_name
+    attributes:
+      label: Icon Name
+      description: The exact icon name or filename you're requesting
+      placeholder: e.g., firefox, org.mozilla.firefox
+    validations:
+      required: true
+
+  - type: input
+    id: app_link
+    attributes:
+      label: App Website/Store Link
+      description: Provide a link to one of the following - Official website, Flatpak page, AUR, or other app store
+      placeholder: e.g., https://flathub.org/en/apps/org.mozilla.firefox
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How important is this icon request?
+      options:
+        - Low - I don't use the app
+        - Medium - I use the app but I don't immediately need the icon
+        - High - I regularly use the app and would like the icon to be added soon
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Additional Notes
+      description: Any other relevant information
+      placeholder: Add any other context or requirements here
