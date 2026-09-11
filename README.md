@@ -92,7 +92,3 @@ Check [Workspace/README.md](Workspace/README.md) for more information.
 ## Wiki
 
 There should be a lot of information in the [Wiki](https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme/wiki); go there if you're interested.
-
-## License
-
-See [LICENSE](LICENSE).
