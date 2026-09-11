@@ -1,0 +1,75 @@
+name: Icon Request
+description: Request a new icon to be added to the Conflux Icon Theme
+labels: ["icon-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for requesting an icon! Please fill out the required fields below.
+
+  - type: input
+    id: app_name
+    attributes:
+      label: App Name
+      description: The official name of the application
+      placeholder: e.g., Visual Studio Code, GIMP, Blender
+    validations:
+      required: true
+
+  - type: input
+    id: icon_name
+    attributes:
+      label: Icon Name
+      description: The exact icon name or filename you're requesting
+      placeholder: e.g., com.visualstudio.code, org.gimp.GIMP, blender
+    validations:
+      required: true
+
+  - type: input
+    id: app_link
+    attributes:
+      label: App Website/Store Link
+      description: Provide a link to one of the following - Official website, Flatpak page, AUR, or other app store
+      placeholder: e.g., https://flathub.org/apps/com.visualstudio.code
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_icon
+    attributes:
+      label: Current Icon
+      description: Describe the current icon or link to it, if any
+      placeholder: Describe or paste a link to the current icon
+
+  - type: input
+    id: icon_category
+    attributes:
+      label: Icon Style/Category
+      description: What category does this icon belong to?
+      placeholder: e.g., development, media, productivity, system, utilities
+
+  - type: textarea
+    id: reference_images
+    attributes:
+      label: Reference Images
+      description: Share links, screenshots, or official app logos that could help with creating the icon
+      placeholder: Paste image links or descriptions here
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How important is this icon request?
+      options:
+        - High - Critical for my workflow
+        - Medium - Nice to have
+        - Low - No immediate need
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Additional Notes
+      description: Any other relevant information
+      placeholder: Add any other context or requirements here
