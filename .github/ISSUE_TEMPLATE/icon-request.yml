@@ -1,18 +1,18 @@
 name: Icon Request
-description: Request a new icon to be added to the Conflux Icon Theme
+description: Request a new icon to be added
 labels: ["icon-request"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for requesting an icon! Please fill out the required fields below.
+        Please fill out the form if you want to request a new icon.
 
   - type: input
     id: app_name
     attributes:
       label: App Name
-      description: The official name of the application
-      placeholder: e.g., Visual Studio Code, GIMP, Blender
+      description: The name of the application
+      placeholder: e.g., Firefox
     validations:
       required: true
 
@@ -21,7 +21,7 @@ body:
     attributes:
       label: Icon Name
       description: The exact icon name or filename you're requesting
-      placeholder: e.g., com.visualstudio.code, org.gimp.GIMP, blender
+      placeholder: e.g., firefox, org.mozilla.firefox
     validations:
       required: true
 
@@ -30,30 +30,9 @@ body:
     attributes:
       label: App Website/Store Link
       description: Provide a link to one of the following - Official website, Flatpak page, AUR, or other app store
-      placeholder: e.g., https://flathub.org/apps/com.visualstudio.code
+      placeholder: e.g., https://flathub.org/en/apps/org.mozilla.firefox
     validations:
       required: true
-
-  - type: textarea
-    id: current_icon
-    attributes:
-      label: Current Icon
-      description: Describe the current icon or link to it, if any
-      placeholder: Describe or paste a link to the current icon
-
-  - type: input
-    id: icon_category
-    attributes:
-      label: Icon Style/Category
-      description: What category does this icon belong to?
-      placeholder: e.g., development, media, productivity, system, utilities
-
-  - type: textarea
-    id: reference_images
-    attributes:
-      label: Reference Images
-      description: Share links, screenshots, or official app logos that could help with creating the icon
-      placeholder: Paste image links or descriptions here
 
   - type: dropdown
     id: priority
@@ -61,9 +40,9 @@ body:
       label: Priority
       description: How important is this icon request?
       options:
-        - High - Critical for my workflow
-        - Medium - Nice to have
-        - Low - No immediate need
+        - Low - I don't use the app
+        - Medium - I use the app but I don't immediately need the icon
+        - High - I regularly use the app and would like the icon to be added soon
     validations:
       required: true
 
