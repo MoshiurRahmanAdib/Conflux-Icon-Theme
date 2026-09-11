@@ -43,7 +43,7 @@ As I initially made this primarily for my use, I mostly added icons that I neede
 
 ## Sources and Attribution
 
-See [ACKNOWLEDGMENTS.md](ACKNOWLEDGMENTS.md) for detailed attribution and information about sources.
+See [CREDITS.md](CREDITS.md) for detailed attribution and information about sources.
 
 A lot of icons are based on icons from other icon themes; credits to, among others, [WhiteSur](https://github.com/vinceliuice/WhiteSur-icon-theme), [McMuse](https://github.com/yeyushengfan258/McMuse-icon-theme), [Kora](https://github.com/bikass/kora), [MoreWaita](https://github.com/somepaulo/MoreWaita), [MacTahoe](https://github.com/vinceliuice/MacTahoe-icon-theme), and [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)! There are original icons as well, and some are the original app icons with adjustments.
 
