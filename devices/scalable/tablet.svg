@@ -1,1 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 16.933 16.933"><defs><linearGradient id="b" x1="-23.585" x2="28.501" y1="124.84" y2="170.24" gradientTransform="translate(12.941 235.25)scale(.25202)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#333"/><stop offset="1" stop-color="#1a1a1a"/></linearGradient><linearGradient id="a"><stop offset="0" stop-color="#6a6a6a"/><stop offset="1" stop-color="#0d0d0d"/></linearGradient><radialGradient xlink:href="#a" id="c" cx="-74.104" cy="276.04" r="5.603" gradientTransform="matrix(1.0755 -1.109 1.1794 1.1438 -318.67 -120.38)" gradientUnits="userSpaceOnUse"/></defs><g stroke-width="1.976" transform="matrix(.52631 0 0 .52674 -.45 -138.77)"><g fill="#262626"><path fill-opacity=".997" d="M26.297 263.44h1.378v.206h-1.378z"/><path d="M29.189 267.78h.434v.448h-.434z"/><rect width=".434" height="1.012" x="29.189" y="269.29" ry=".104"/><rect width=".434" height="1.012" x="29.189" y="270.93" ry=".104"/></g><rect width="24.95" height="31.71" x="4.459" y="263.68" fill="#b2b2b2" fill-opacity=".983" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".101" ry="1.438"/><rect width="24.445" height="31.07" x="4.711" y="264" ry="1.409"/><rect width="19.872" height="25.65" x="6.997" y="266.71" fill="url(#b)" ry="0"/><g transform="translate(-30.285 268.56)scale(.12733)"><circle cx="-73.293" cy="269.83" r="5.603" fill="url(#c)" transform="translate(446.63 -80.455)scale(1.0342)"/><rect width="3.934" height="3.54" x="368.87" y="196.83" fill="#1a1a1a" fill-opacity=".983" stroke="#b4b4b5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".981" ry=".866"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="tablet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.5"
+     inkscape:cx="31.96"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1261"
+       id="linearGradient1195"
+       x1="7.6729164"
+       y1="6.6675"
+       x2="5.2916665"
+       y2="2.3812497"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(21.83727,0,0,9.3321667,-109.55555,-10.222219)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1261">
+      <stop
+         style="stop-color:#1a86f2;stop-opacity:1"
+         offset="0"
+         id="stop1257" />
+      <stop
+         style="stop-color:#2ac9fe;stop-opacity:1"
+         offset="1"
+         id="stop1259" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect1552"
+     width="54"
+     height="42"
+     x="5"
+     y="12"
+     ry="4" />
+  <rect
+     style="opacity:1;fill:#282828;stroke-width:5.33333;stroke-linecap:round;stroke-linejoin:round"
+     id="rect1340"
+     width="54"
+     height="42"
+     x="5"
+     y="11"
+     ry="4" />
+  <rect
+     style="fill:url(#linearGradient1195);fill-opacity:1;stroke-width:3.77705;stroke-linecap:round;stroke-linejoin:round"
+     id="rect1008"
+     width="52"
+     height="40"
+     x="6"
+     y="12"
+     ry="3" />
+</svg>
