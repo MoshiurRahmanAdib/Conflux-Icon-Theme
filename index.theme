@@ -27,7 +27,7 @@ KDE-Extensions=.svg
 
 # Directory list
 Directories=apps/scalable,devices/scalable,emblems/16,emblems/22,emblems/24,mimes/16,mimes/22,mimes/scalable,places/scalable,preferences/32,status/16,status/22,status/24,status/32,status/symbolic
-ScaledDirectories=apps@2x/scalable,devices@2x/scalable,emblems@2x/16,emblems@2x/22,emblems@2x/24,mimes@2x/16,mimes@2x/22,mimes@2x/scalable,places@2x/scalable,preferences@x2/32,status@2x/16,status@2x/22,status@2x/24,status@2x/32,status@2x/symbolic
+ScaledDirectories=apps@2x/scalable,devices@2x/scalable,emblems@2x/16,emblems@2x/22,emblems@2x/24,mimes@2x/16,mimes@2x/22,mimes@2x/scalable,places@2x/scalable,preferences@2x/32,status@2x/16,status@2x/22,status@2x/24,status@2x/32,status@2x/symbolic
 
 [apps/scalable]
 Size=64
