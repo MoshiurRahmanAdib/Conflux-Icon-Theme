@@ -70,7 +70,7 @@ Type=Scalable
 [places/scalable]
 Size=64
 Context=Places
-MinSize=32
+MinSize=16
 MaxSize=512
 Type=Scalable
 
