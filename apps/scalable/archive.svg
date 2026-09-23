@@ -21,7 +21,7 @@
                 <feMergeNode in="shadowMatrixInner2"/>
             </feMerge>
         </filter>
-        <filter id="i" width="1" height="1.125" x="0" y="-.063" filterUnits="objectBoundingBox">
+        <filter id="h" width="1" height="1.125" x="0" y="-.063" filterUnits="objectBoundingBox">
             <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
             <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.638429995 0 0 0 0 0.734341815 0 0 0 0 0.990036232 0 0 0 0.5 0"/>
@@ -140,7 +140,7 @@
         <use xlink:href="#c" fill="url(#d)" fill-rule="evenodd" style="fill:url(#d)"/>
         <use xlink:href="#c" filter="url(#e)"/>
         <use xlink:href="#f" fill="url(#g)" fill-rule="evenodd" style="fill:url(#g)"/>
-        <use xlink:href="#f" filter="url(#i)" style="display:inline"/>
+        <use xlink:href="#f" filter="url(#h)" style="display:inline"/>
         <g style="display:inline">
             <use xlink:href="#j" fill="url(#k)" fill-rule="evenodd" style="fill:url(#k)"/>
             <use xlink:href="#j" filter="url(#l)"/>
