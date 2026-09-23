@@ -37,7 +37,10 @@ The directory structure of the theme was based on WhiteSur.
 - **MoreWaita**: onlyoffice
 - **MacTahoe**: camera
 - **Deepin**: archive
+- **Papirus**: vim
 - **Official logo/icons**
+    * Vim: vim
+	* VLC: vlc
 	* Visual Studio Code: code
 	* Zen Browser: zen-browser, zen-browser-alt, zen-twilight
 	* Obsidian: obsidian
@@ -50,6 +53,7 @@ The directory structure of the theme was based on WhiteSur.
 	* LocalSend: localsend
 	* Figma: figma
 	* Spotify: spotify
+	* Helium Browser: helium
 
 ### Symbolic and Status icons
 - **Papirus**: protonvpngui-connected, protonvpngui-disconnected, protonvpngui-no-network, protonvpn-tray

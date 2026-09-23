@@ -2,12 +2,12 @@
 <svg
    width="64"
    height="64"
-   viewBox="0 0 16.933 16.933"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg57"
    sodipodi:docname="preferences-desktop-theme.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   inkscape:export-filename="../Optimizer Stage/preferences-desktop-theme.svg"
+   inkscape:export-filename="../../preferences/scalable/preferences-desktop-theme.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -23,16 +23,32 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="16"
-     inkscape:cx="21.15625"
-     inkscape:cy="36.96875"
-     inkscape:current-layer="svg57" />
+     inkscape:zoom="4"
+     inkscape:cx="-34.875"
+     inkscape:cy="4.625"
+     inkscape:current-layer="svg57"
+     showgrid="false">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26457812"
+       spacingy="0.26457812"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
   <defs
      id="defs26">
     <linearGradient
        id="e"
-       x1="4.716"
-       x2="4.716"
+       x1="4.7160001"
+       x2="4.7160001"
        y1="12.46"
        y2="10.806"
        gradientTransform="translate(0.032,-0.025)"
@@ -48,8 +64,8 @@
     </linearGradient>
     <linearGradient
        id="g"
-       x1="4.716"
-       x2="4.716"
+       x1="4.7160001"
+       x2="4.7160001"
        y1="12.56"
        y2="10.806"
        gradientTransform="matrix(0.60872,0,0,0.60872,1.883,4.54)"
@@ -65,8 +81,8 @@
     </linearGradient>
     <linearGradient
        id="h"
-       x1="4.716"
-       x2="4.716"
+       x1="4.7160001"
+       x2="4.7160001"
        y1="12.56"
        y2="10.806"
        gradientTransform="matrix(0.38175,0,0,0.38175,2.956,7.188)"
@@ -82,10 +98,10 @@
     </linearGradient>
     <linearGradient
        id="d"
-       x1="4.762"
-       x2="4.762"
+       x1="4.7620001"
+       x2="4.7620001"
        y1="12.725"
-       y2="3.969"
+       y2="3.9690001"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
@@ -98,8 +114,8 @@
     </linearGradient>
     <linearGradient
        id="c"
-       x1="4.762"
-       x2="4.762"
+       x1="4.7620001"
+       x2="4.7620001"
        y1="12.171"
        y2="3.704"
        gradientUnits="userSpaceOnUse">
@@ -114,8 +130,8 @@
     </linearGradient>
     <linearGradient
        id="b"
-       x1="4.762"
-       x2="4.762"
+       x1="4.7620001"
+       x2="4.7620001"
        y1="12.435"
        y2="3.704"
        gradientUnits="userSpaceOnUse">
@@ -130,8 +146,8 @@
     </linearGradient>
     <linearGradient
        id="a"
-       x1="4.762"
-       x2="4.762"
+       x1="4.7620001"
+       x2="4.7620001"
        y1="12.435"
        y2="3.704"
        gradientTransform="rotate(90,5.19,12.069)"
@@ -178,7 +194,7 @@
     </radialGradient>
     <radialGradient
        id="f"
-       cx="4.762"
+       cx="4.7620001"
        cy="11.377"
        r="1.058"
        gradientUnits="userSpaceOnUse">
@@ -196,9 +212,9 @@
     </radialGradient>
     <radialGradient
        id="k"
-       cx="4.762"
+       cx="4.7620001"
        cy="11.641"
-       r=".644"
+       r="0.64399999"
        gradientTransform="scale(3.7796)"
        gradientUnits="userSpaceOnUse">
       <stop
@@ -230,7 +246,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      id="g57"
-     transform="matrix(1.3850947,0,0,1.3850947,-3.669708,-3.2748558)">
+     transform="matrix(5.2351068,0,0,5.2351068,-13.870037,-12.377653)">
     <path
        fill="url(#a)"
        stroke="#7f7f7f"
