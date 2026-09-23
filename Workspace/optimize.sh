@@ -17,4 +17,4 @@ if [ ! -x "$SCRIPT_DIR/.tools/node_modules/.bin/svgo" ]; then
   npm install --prefix "$SCRIPT_DIR/.tools" --no-save svgo
 fi
 
-"$SCRIPT_DIR/.tools/node_modules/.bin/svgo" --pretty -i .
+"$SCRIPT_DIR/.tools/node_modules/.bin/svgo" -i .
