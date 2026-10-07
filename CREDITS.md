@@ -12,6 +12,7 @@ Some icons are taken and modified from these icon packs:
 - Papirus: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 - Deepin: https://github.com/linuxdeepin/deepin-icon-theme
 - Stylish Icon Theme: https://github.com/mjkim0727/Stylish-icon-theme
+- Plane: https://github.com/wfpaisa/plane-icon-theme
 
 Some are original icons by me.
 
@@ -54,6 +55,9 @@ The directory structure of the theme was based on WhiteSur.
 	* Figma: figma
 	* Spotify: spotify
 	* Helium Browser: helium
+
+### Places icons
+- **Plane**: user-trash, user-trash-full
 
 ### Symbolic and Status icons
 - **Papirus**: protonvpngui-connected, protonvpngui-disconnected, protonvpngui-no-network, protonvpn-tray
