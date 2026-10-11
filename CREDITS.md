@@ -13,6 +13,8 @@ Some icons are taken and modified from these icon packs:
 - Deepin: https://github.com/linuxdeepin/deepin-icon-theme
 - Stylish Icon Theme: https://github.com/mjkim0727/Stylish-icon-theme
 - Plane: https://github.com/wfpaisa/plane-icon-theme
+- Fluent: https://github.com/vinceliuice/Fluent-icon-theme
+- Win11 Icon Theme: https://github.com/yeyushengfan258/win11-icon-theme
 
 Some are original icons by me.
 
@@ -39,6 +41,8 @@ The directory structure of the theme was based on WhiteSur.
 - **MacTahoe**: camera
 - **Deepin**: archive
 - **Papirus**: vim
+- **Fluent**: virtualbox
+- **Win11 Icon Theme**: steam
 - **Official logo/icons**
     * Vim: vim
 	* VLC: vlc
@@ -51,6 +55,7 @@ The directory structure of the theme was based on WhiteSur.
 	* JetBrains: clion, datagrip, dataspell, dotmemory, dottrace, goland, intellij-idea, phpstorm, pycharm, rider, rubymine, rustrover, webstorm
 	* Notion: notion
 	* Affinity Studio: affinity
+	* Steam: steam
 	* LocalSend: localsend
 	* Figma: figma
 	* Spotify: spotify
