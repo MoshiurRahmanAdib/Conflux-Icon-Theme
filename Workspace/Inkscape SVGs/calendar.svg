@@ -49,10 +49,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="11.313708"
-     inkscape:cx="40.084117"
-     inkscape:cy="31.598836"
-     inkscape:current-layer="g3">
+     inkscape:zoom="2.828427"
+     inkscape:cx="-15.379573"
+     inkscape:cy="97.757517"
+     inkscape:current-layer="g9">
     <inkscape:grid
        id="grid3"
        units="px"
@@ -82,7 +82,7 @@
          fill="black"
          opacity="0.25"
          id="rect1"
-         style="opacity:1;fill:#bfbfbf;fill-opacity:1;stroke-width:0.974245" />
+         style="opacity:1;fill:#a8a8a8;fill-opacity:1;stroke-width:0.974245" />
       <rect
          x="4"
          y="6.8474574"
@@ -92,7 +92,7 @@
          fill="black"
          opacity="0.25"
          id="rect2"
-         style="opacity:1;fill:#999999;fill-opacity:1;stroke-width:0.965507"
+         style="opacity:1;fill:#8a8a8a;fill-opacity:1;stroke-width:0.965507"
          ry="11.389831" />
       <rect
          x="4"
@@ -103,7 +103,7 @@
          fill="black"
          opacity="0.25"
          id="rect3"
-         style="opacity:1;fill:#bfbfbf;fill-opacity:1;stroke-width:0.95669"
+         style="opacity:1;fill:#b8b8b8;fill-opacity:1;stroke-width:0.95669"
          ry="11.389831" />
       <rect
          x="4"
@@ -125,7 +125,7 @@
          fill="black"
          opacity="0.25"
          id="rect5"
-         style="opacity:1;fill:#bfbfbf;fill-opacity:1;stroke-width:0.938806"
+         style="opacity:1;fill:#c7c7c7;fill-opacity:1;stroke-width:0.938806"
          ry="11.389831" />
       <rect
          x="4"
@@ -136,7 +136,7 @@
          fill="black"
          opacity="0.25"
          id="rect6"
-         style="opacity:1;fill:#999999;fill-opacity:1;stroke-width:0.929734"
+         style="opacity:1;fill:#a8a8a8;fill-opacity:1;stroke-width:0.929734"
          ry="11.389831" />
       <rect
          x="4"
