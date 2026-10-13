@@ -9,7 +9,7 @@ A beautiful, modern, and neutral icon theme for Linux that makes all icons feel 
 - **Modern, clean, beautiful icons**: The most important, of course.
 - **Compatible with unthemed icons**: Icons that aren't included in Conflux should still fit in reasonably well.
 - **Freeform shapes**: Icons are not necessarily bound to circle, square, squircle, or other fixed shapes. This allows more flexibility. Because Linux apps don't have some standard app icon design to follow, many of them have their own shapes; they should still fit in without looking out of place.
-- **Preserve good icons**: Icons that are already well-designed and fit the style, or are recognizable logos (e.g. Firefox), aren't modified unless necessary or significant improvement is possible. Many icons are simply resized, repositioned, or have their background shape changed/removed. Some examples of this: ![Before / After](before-after-1.png)
+- **Preserve good icons**: Icons that are already well-designed and fit the style, or are recognizable logos (e.g. Firefox), aren't modified unless necessary or significant improvement is possible. Many icons are simply resized, repositioned, or have their background shape changed/removed. Some examples of this: ![Before / After](images/before-after-1.png)
 - **Universal visual language**: Conflux doesn't follow some distinctive art style, but rather has a neutral, versatile visual language. This additionally keeps it compatible with unthemed icons.
 - **Invisible**: Conflux should blend seamlessly into your system, so that you don't even notice you're using an icon theme.
 
@@ -41,6 +41,18 @@ Set 'Conflux' as your icon theme. On GNOME, you can do that with GNOME Tweaks.
 ### Fallback icon pack
 If you want to use this together with another icon theme, edit `index.theme` and add the name (folder name) of the theme to `Inherits`. For example, `Inherits=Adwaita,breeze,hicolor`.
 
+## Note for KDE users
+It seems like SVG path clips and icon theme inherits are broken in KDE Plasma and KDE apps (see images for examples). I am trying to fix them using workarounds, but for now I'd consider KDE to be unsupported (you can still try using it but a lot of things probably wouldn't look right). If anyone knows of a good solution, please let me know!
+
+<details>
+  <summary>Images</summary>
+
+  ![Broken Clip Path](images/kde-broken-clip.png)
+
+  ![Broken theme inherits](images/kde-broken-inherits.png)
+</details>
+
+
 ## About
 
 I had a problem: I couldn't find a good, modern-looking icon theme for my desktop. All the ones I came across have an outdated style (or just poor design), and/or are too stylistic, making unthemed icons look out of place, and potentially changing the app's identity. So I tried to solve that with Conflux.
@@ -71,14 +83,12 @@ See [this]() for more info.
 
 [Issues](https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme/issues)
 
-- Add GitHub Wiki, Contributing, Design Guidelines, and other resources.
+- [ ] Add GitHub Wiki, Contributing, Design Guidelines, and other resources.
 - [ ] Improve support for other desktop environments
 - [ ] Add a TUI script for options
-    - [ ] Option to add app icon shadow
     - [ ] Folder colors / accent colors
 - [ ] Better [places](places) icons
 - [ ] Better [devices](devices) icons
-- [ ] New 'software' (`software.svg`) icon
 
 ## Folders
 
