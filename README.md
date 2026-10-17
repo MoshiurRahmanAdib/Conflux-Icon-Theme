@@ -44,6 +44,8 @@ If you want to use this together with another icon theme, edit `index.theme` and
 ## Note for KDE users
 It seems like SVG path clips and icon theme inherits are broken in KDE Plasma and KDE apps (see images for examples). I am trying to fix them using workarounds, but for now I'd consider KDE to be unsupported (you can still try using it but a lot of things probably wouldn't look right). If anyone knows of a good solution, please let me know!
 
+More details here: https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme/wiki/KDE-Issues
+
 <details>
   <summary>Images</summary>
 

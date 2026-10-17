@@ -36,7 +36,7 @@ The directory structure of the theme was based on WhiteSur.
 - **Original / mostly original icons**: files, dolphin, calendar
 - **McMuse**: weather, music, network, org.gnome.Tweaks, org.inkscape.Inkscape-alt
 - **WhiteSur**: settings, clock, calculator, terminal, code, jdownloader, preferences-desktop-theme
-- **Kora**: mail, org.gnome.Software
+- **Kora**: mail
 - **MoreWaita**: onlyoffice
 - **MacTahoe**: camera
 - **Deepin**: archive
@@ -58,9 +58,10 @@ The directory structure of the theme was based on WhiteSur.
 	* Steam: steam
 	* LocalSend: localsend
 	* Figma: figma
-	* Spotify: spotify
 	* Jdownloader: jdownloader
+	* TickTick: ticktick
 	* Helium Browser: helium
+	* Spotify: spotify
 
 ### Places icons
 - **Plane**: user-trash, user-trash-full
