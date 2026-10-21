@@ -26,14 +26,21 @@ FollowsColorScheme=true
 KDE-Extensions=.svg
 
 # Directory list
-Directories=apps/scalable,devices/scalable,emblems/16,emblems/22,emblems/24,mimes/scalable,places/scalable,preferences/scalable,status/16,status/22,status/24,status/32,status/symbolic
-ScaledDirectories=apps@2x/scalable,devices@2x/scalable,emblems@2x/16,emblems@2x/22,emblems@2x/24,mimes@2x/scalable,places@2x/scalable,preferences@2x/scalable,status@2x/16,status@2x/22,status@2x/24,status@2x/32,status@2x/symbolic
+Directories=apps/scalable,apps/symbolic,devices/scalable,emblems/16,emblems/22,emblems/24,mimes/scalable,places/scalable,preferences/scalable,status/16,status/22,status/24,status/32,status/symbolic
+ScaledDirectories=apps@2x/scalable,apps@2x/symbolic,devices@2x/scalable,emblems@2x/16,emblems@2x/22,emblems@2x/24,mimes@2x/scalable,places@2x/scalable,preferences@2x/scalable,status@2x/16,status@2x/22,status@2x/24,status@2x/32,status@2x/symbolic
 
 [apps/scalable]
 Size=64
 Context=Applications
 MinSize=16
 MaxSize=512
+Type=Scalable
+
+[apps/symbolic]
+Size=16
+Context=Applications
+MinSize=16
+MaxSize=16
 Type=Scalable
 
 [devices/scalable]
@@ -114,6 +121,14 @@ Type=Scalable
 
 [apps@2x/scalable]
 Size=64
+Scale=2
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[apps@2x/symbolic]
+Size=16
 Scale=2
 Context=Applications
 MinSize=16
