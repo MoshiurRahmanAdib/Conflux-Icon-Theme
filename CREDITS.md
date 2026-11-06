@@ -62,6 +62,9 @@ The directory structure of the theme was based on WhiteSur.
 	* TickTick: ticktick
 	* Helium Browser: helium
 	* Spotify: spotify
+	* Ghostty: com.mitchellh.ghostty
+	* Zed: zed, zed-preview
+	* warp.dev: warp-terminal
 
 ### Places icons
 - **Plane**: user-trash, user-trash-full
