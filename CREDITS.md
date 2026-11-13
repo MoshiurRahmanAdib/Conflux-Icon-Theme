@@ -33,38 +33,18 @@ The directory structure of the theme was based on WhiteSur.
 
 > Icons may have multiple sources
 
-- **Original / mostly original icons**: files, dolphin, calendar
+- **Original / mostly original icons**: system-file-manager, dolphin, calendar
 - **McMuse**: weather, music, network, org.gnome.Tweaks, org.inkscape.Inkscape-alt
-- **WhiteSur**: settings, clock, calculator, terminal, code, contacts, jdownloader, preferences-desktop-theme
+- **WhiteSur**: settings, clock, accessories-calculator, utilities-terminal, code, contacts, jdownloader, preferences-desktop-theme, resolve
 - **Kora**: mail
 - **MoreWaita**: onlyoffice
 - **MacTahoe**: camera
-- **Deepin**: archive
 - **Papirus**: vim
 - **Fluent**: virtualbox
+- **Plane**: fsearch
 - **Win11 Icon Theme**: steam
-- **Official logo/icons**
-    * Vim: vim
-	* VLC: vlc
-	* Visual Studio Code: code
-	* Zen Browser: zen-browser, zen-browser-alt, zen-twilight
-	* Obsidian: obsidian
-	* OnlyOffice: onlyoffice
-	* OpenAI: chatgpt
-	* Proton.me: proton-vpn, proton-pass, proton-authenticator
-	* JetBrains: clion, datagrip, dataspell, dotmemory, dottrace, goland, intellij-idea, phpstorm, pycharm, rider, rubymine, rustrover, webstorm
-	* Notion: notion
-	* Affinity Studio: affinity
-	* Steam: steam
-	* LocalSend: localsend
-	* Figma: figma
-	* Jdownloader: jdownloader
-	* TickTick: ticktick
-	* Helium Browser: helium
-	* Spotify: spotify
-	* Ghostty: com.mitchellh.ghostty
-	* Zed: zed, zed-preview
-	* warp.dev: warp-terminal
+- **Deepin**: archive
+- **Official logo/icons**: (See below)
 
 ### Places icons
 - **Plane**: user-trash, user-trash-full
@@ -81,3 +61,31 @@ Folders where most icons are based on one source:
 - **Stylish Icon Theme**: /devices/
 - **WhiteSur**: /emblems/, /mimes/, /devices/
 - **MacTahoe:** /places/
+
+## Official logo/icons
+
+- Vim: vim
+- VLC: vlc
+- Visual Studio Code: code
+- Zen Browser: zen-browser, zen-browser-alt, zen-twilight
+- Obsidian: obsidian
+- OnlyOffice: onlyoffice
+- OpenAI: chatgpt
+- Proton.me: proton-vpn, proton-pass, proton-authenticator
+- JetBrains: clion, datagrip, dataspell, dotmemory, dottrace, goland, intellij-idea, phpstorm, pycharm, rider, rubymine, rustrover, webstorm
+- Notion: notion
+- Affinity Studio: affinity
+- Steam: steam
+- LocalSend: localsend
+- Figma: figma
+- Jdownloader: jdownloader
+- TickTick: ticktick
+- Helium Browser: helium
+- Spotify: spotify
+- Ghostty: ghostty
+- Zed: zed, zed-preview
+- warp.dev: warp-terminal
+- Android Studio: android-studio
+- DaVinci Resolve: resolve
+- Minecraft: minecraft
+- OBS Studio: obs
