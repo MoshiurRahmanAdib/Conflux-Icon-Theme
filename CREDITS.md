@@ -64,6 +64,7 @@ Folders where most icons are based on one source:
 
 ## Official logo/icons
 
+- Mozilla: firefox, thunderbrid
 - Vim: vim
 - VLC: vlc
 - Visual Studio Code: code
@@ -89,3 +90,4 @@ Folders where most icons are based on one source:
 - DaVinci Resolve: resolve
 - Minecraft: minecraft
 - OBS Studio: obs
+- Opera browser: opera
