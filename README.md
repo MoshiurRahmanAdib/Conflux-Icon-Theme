@@ -105,3 +105,13 @@ Check [Workspace/README.md](Workspace/README.md) for more information.
 ## Wiki
 
 There should be a lot of information in the [Wiki](https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme/wiki); go there if you're interested.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=moshiurrahmanadib%2Fconflux-icon-theme&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=moshiurrahmanadib/conflux-icon-theme&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=moshiurrahmanadib/conflux-icon-theme&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=moshiurrahmanadib/conflux-icon-theme&type=date&legend=top-left" />
+ </picture>
+</a>
