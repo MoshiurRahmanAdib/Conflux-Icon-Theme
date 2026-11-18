@@ -74,6 +74,7 @@ Folders where most icons are based on one source:
 - OpenAI: chatgpt
 - Proton.me: proton-vpn, proton-pass, proton-authenticator
 - JetBrains: clion, datagrip, dataspell, dotmemory, dottrace, goland, intellij-idea, phpstorm, pycharm, rider, rubymine, rustrover, webstorm
+- Google: chrome
 - Notion: notion
 - Affinity Studio: affinity
 - Steam: steam
