@@ -91,3 +91,4 @@ Folders where most icons are based on one source:
 - Minecraft: minecraft
 - OBS Studio: obs
 - Opera browser: opera
+- Discord: discord
